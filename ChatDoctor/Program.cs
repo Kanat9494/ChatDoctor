@@ -7,7 +7,7 @@ using System.Text;
 class Program
 {
     static string userName;
-    private const string host = "127.0.0.1";
+    private const string host = "192.168.2.33";
     private const int port = 8888;
     static string receiverName;
     static TcpClient client;
